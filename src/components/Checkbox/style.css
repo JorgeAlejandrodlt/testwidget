@@ -1,0 +1,10 @@
+.checkboxwrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .checkboxtitle {
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  

@@ -1,2 +1,4 @@
-# testwidget
-A booking widget with Reactjs
+# Booking Widget
+
+
+# Customizable widget component to process bookings
